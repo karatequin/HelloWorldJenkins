@@ -6,7 +6,7 @@ public class HomeController {
 
     @GetMapping("/")
     public String home(){
-        return "index";
+        return "index intern was here, sorry";
     }
 
 }
